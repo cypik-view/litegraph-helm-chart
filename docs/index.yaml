@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  litegraph:
+  - apiVersion: v2
+    created: "2025-02-11T18:21:48.064890234+05:30"
+    description: A Helm chart for deploying LiteGraph
+    digest: a37602d4e45a5173d1f40ac3f0190b6d8cbd34f11a211a8b68cadfd661dc78f0
+    maintainers:
+    - email: hellohello8524@gmail.com
+      name: suresh
+    name: litegraph
+    type: application
+    urls:
+    - https://github.com/cypik-view/litegraph-helm-chart.git/charts/litegraph-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-02-11T18:21:48.063188953+05:30"
